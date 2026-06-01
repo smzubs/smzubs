@@ -1,12 +1,12 @@
 <div align="center">
 
-# SM Zobayer
+# SM Zobayer — AI Automation Builder
 
-### EHS leader → GRC / Privacy + AI SaaS builder
+### SafetyTech · ComplianceTech · Construction & Field Operations Automation
 
-**7 years in construction safety & OSHA compliance** — now translating that risk-and-controls mindset into **privacy, governance, and full-stack product engineering.** Founder of [Verdorian Technologies LLC](https://verdorian.com), where I design and ship AI-powered SaaS end to end.
+I build practical, AI-assisted software systems that automate **safety documentation, compliance workflows, field reporting, inspections, QR-based workflows, and operational reporting.** Founder of [Verdorian Technologies LLC](https://verdorian.com).
 
-🎯 *Pursuing CIPP/US (IAPP) · Open to remote GRC / Privacy + Full-Stack roles*
+Seven years in construction safety and OSHA work taught me how field operations and compliance actually run — now I turn that domain knowledge into working software, building with an AI-assisted workflow (Claude Code / Codex).
 
 </div>
 
@@ -23,30 +23,34 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-**Governance & privacy focus:** data-classification & access control (row-level security), least-privilege design, auditability, tenant isolation, and secure-by-default product patterns.
+**Focus areas:** AI-assisted product development · safety & field-operations workflow design · QR inspection and field-documentation systems · multi-tenant SaaS architecture · AI document/report generation · deployment on Vercel + Supabase.
 
 ---
 
 ### 🚀 Featured products
 
-A studio of six shipped products. A few highlights:
+A studio of products built solo. A few highlights:
 
-| Product | What it does | Stack | Live |
+| Product | What it does | Stack | Status |
 |---|---|---|---|
-| **QRSafePro / QRStock** | QR-driven safety inspections + inventory for field teams. Multi-tenant, role-based access. | Next.js · Supabase · Postgres RLS | [qrsafepro.com](https://qrsafepro.com) |
-| **PolicyPilot** | Insurance-agency CRM with automated ACORD form fill. | Next.js · Supabase · Drizzle · Puppeteer | [policypilot-one.vercel.app](https://policypilot-one.vercel.app) |
-| **VoicePencil** | AI voice-to-text notes app for iOS. | Expo SDK 54 · React Native · RevenueCat | *iOS — in TestFlight* |
-| **Knight Electric** | Corporate site rebuild for an electrical contractor. | Next.js · Tailwind | [knightelectric.net](https://knightelectric.net) |
+| **QRSafePro / QRStock** | QR-driven safety inspections + inventory automation for field teams | Next.js · Supabase · Postgres | [qrsafepro.com](https://qrsafepro.com) |
+| **ChangeOrderAI** | AI-generated change-order documents for trade contractors | Expo · Supabase | In development |
+| **VoicePencil** | AI voice-to-structured-notes app for iOS | Expo SDK 54 · RevenueCat | TestFlight beta |
+| **PolicyPilot** | Automated ACORD form generation for insurance agencies | Next.js · Supabase · Puppeteer | [policypilot-one.vercel.app](https://policypilot-one.vercel.app) |
 
-📖 **Full case studies — architecture, decisions & outcomes → [github.com/smzubs/portfolio](https://github.com/smzubs/portfolio)**
+📖 **Full case studies — problem, solution, architecture & status → [github.com/smzubs/portfolio](https://github.com/smzubs/portfolio)**
 
 ---
 
-### 🎯 What I'm focused on
+### 🤖 Development approach
 
-- **GRC & Privacy** — pursuing **CIPP/US (IAPP)**; mapping my OSHA controls-and-audit experience onto data-protection frameworks.
-- **Secure-by-default engineering** — least privilege, tenant isolation, and auditability baked into every product.
-- **Shipping** — six products live or in beta since late 2025, built and operated solo.
+These projects are built with an AI-assisted development workflow using **Claude Code / Codex.** I lead the product direction, domain logic, architecture decisions, testing, deployment, and documentation, and use AI tools to accelerate implementation, refactoring, and debugging. The result is a tight loop from a real field/compliance problem to shipped, documented software.
+
+---
+
+### 🧠 What I can explain technically
+
+AI-assisted product workflow · safety & field-operations workflow design · QR inspection and field-documentation systems · multi-tenant SaaS architecture · Supabase auth + Postgres Row-Level Security · server-side tenant resolution and access-control thinking · AI-generated safety/compliance documents · report generation and document-automation workflows · deployment with Vercel/Supabase · product trade-offs for field & mobile users.
 
 ---
 
@@ -58,6 +62,6 @@ A studio of six shipped products. A few highlights:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/smzubs)
 [![Résumé](https://img.shields.io/badge/Résumé-PDF-22D3EE?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/smzubs/portfolio/blob/main/assets/SM_Zobayer_Resume.pdf)
 
-💼 **Open to:** remote GRC / Privacy + Full-Stack ($95K–$130K)
+💼 **Open to remote roles and contract projects** in AI automation, safety technology, compliance technology, construction workflow automation, field operations software, and full-stack implementation.
 
-<div align="center"><sub>Built solo at Verdorian Technologies LLC · Tennessee</sub></div>
+<div align="center"><sub>No API keys, customer data, confidential documents, or proprietary infrastructure details appear in this public portfolio.</sub></div>
